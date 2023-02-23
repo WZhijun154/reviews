@@ -62,7 +62,7 @@ Maybe I missed this part but at least some discussion about that would
 be of interest to me.
 # Other reviews
 
--While the given tool is the tractable lifting approach?  Please explain it and add some comments in the revised paper.
+- While the given tool is the tractable lifting approach?  Please explain it and add some comments in the revised paper.
 
 - In addition, the conclusion should be condensed a little.
 
