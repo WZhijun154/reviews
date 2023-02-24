@@ -2,8 +2,8 @@
 
 - ~~The font size for the figures is very small.~~
 - ~~The authors could explain their choice of c2 for the examples more detailed. In~~ ~~particular, does c2(x) have its minimum at xtg?~~
-- On Page 5 I was wondering how the policy is parameterized. Maybe the authors could add
-there a hint that this will be explained later.
+- ~~On Page 5 I was wondering how the policy is parameterized. Maybe the authors could add
+there a hint that this will be explained later.~~
 - Why is not p(xtn,m|πψ) used to denote the probability distribution conditioned on πψ?
 - The symbol p() for probability distributions should be defined.
 - The statement in the abstract that a self-triggered controller is learned by minimizing a
