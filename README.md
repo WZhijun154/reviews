@@ -24,7 +24,7 @@ for state measurements and the application of the control input is the
 same. Maybe it can be added in the second sentence in the intro.
 - ~~After (1): u_t\in\R^n_u but in (1) u_t\in\U (and clearly U\neq\R).
 Same with :\R^n_x??~~
-- Footnote 1 is unnecessary.
+- ~~Footnote 1 is unnecessary.~~
 - II B: 揟hen, given D_j, an arbitrary state厰 Very long sentence
 - III G could be written in Theorem-proof form to increase the clarity
 - There are some design parameters in the simulation, e.g. \tau min and
