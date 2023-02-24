@@ -5,8 +5,8 @@
 - ~~On Page 5 I was wondering how the policy is parameterized. Maybe the authors could add
 there a hint that this will be explained later.~~
 - Why is not p(xtn,m|πψ) used to denote the probability distribution conditioned on πψ?
-- ~~The symbol p() for probability distributions should be defined.~~
-- ~~The statement in the abstract that a self-triggered controller is learned by minimizing a cost function might be a little bit confusing. Maybe it would be more clear to write that a self-triggered controller is derived by minimizing a cost function for the lifted model that is learned. ~~
+- ~~ The symbol p() for probability distributions should be defined.~~
+- ~~ The statement in the abstract that a self-triggered controller is learned by minimizing a cost function might be a little bit confusing. Maybe it would be more clear to write that a self-triggered controller is derived by minimizing a cost function for the lifted model that is learned. ~~
 - The introduction could be better structured. In the short discussion
 of "standard" event-/self-triggered control techniques, it is unclear
 why exactly those works are presented. After the short mentioning of
