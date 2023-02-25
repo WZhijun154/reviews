@@ -12,8 +12,8 @@ of "standard" event-/self-triggered control techniques, it is unclear
 why exactly those works are presented. After the short mentioning of
 deep reinforcement learning based approaches, it should be stated which
 advantages a model-based approach as presented in this note can offer.
-When discussing [15], it should be made clearer that [15] considers
-periodic control.
+~~When discussing [15], it should be made clearer that [15] considers
+periodic control.~~
 - The network setting considered in this note should be made explicit.
 Where exactly is the network, which information has to be transmitted?
 This might also be helpful to better motivate why we not simply
