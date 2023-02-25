@@ -62,6 +62,6 @@ be of interest to me.
 
 - In addition, the conclusion should be condensed a little.
 
-- The detail descriptions on the design of self-trigger mechanism are missing.
+- ~~The detail descriptions on the design of self-trigger mechanism are missing.~~
 
 - Generally, the research background is not sufficiently presented in the introduction section (only two paragraphs), which is not friendly to readers.
