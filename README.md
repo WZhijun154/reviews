@@ -19,9 +19,9 @@ Where exactly is the network, which information has to be transmitted?
 This might also be helpful to better motivate why we not simply
 accumulate the cost at the sensor and then send the accumulated cost to
 the controller.
-- It was not obvious in the beginning (at least for me), that the time
+- ~~It was not obvious in the beginning (at least for me), that the time
 for state measurements and the application of the control input is the
-same. Maybe it can be added in the second sentence in the intro.
+same. Maybe it can be added in the second sentence in the intro.~~
 - ~~After (1): u_t\in\R^n_u but in (1) u_t\in\U (and clearly U\neq\R).
 Same with :\R^n_x??~~
 - ~~Footnote 1 is unnecessary.~~
