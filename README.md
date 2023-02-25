@@ -31,6 +31,8 @@ Same with :\R^n_x??~~
 - ~~Footnote 1 is unnecessary.~~
 - ~~II B: Then, given D_j, an arbitrary state ... Very long sentence~~
 - III G could be written in Theorem-proof form to increase the clarity
+  **no need I think**
+  
 - There are some design parameters in the simulation, e.g. \tau min and
 max. It would be nice to see how sensitive the results are with respect
 to these parameters.
@@ -41,7 +43,7 @@ to these parameters.
 extends the state of the art. The authors mention how it differs from
 other approaches but it is rarely mentioned why it is necessary. For
 instance: 
-
+  
 our approach differs from these works, in the sense that we here
 provide a model-based solution, in which the (lifted) dynamics is
 learned by the GP regression and the optimal self-triggered controller
@@ -55,6 +57,8 @@ on an optimal control problem with a policy gradient technique.?
 So what are the benefits of these different approaches? Maybe there are
 benefits but I would recommend to point it out in a crystal clear way.
 
+  **I have no idea with this**
+  
 - I am surprised that there are not a single assumption on f.
 Obviously, there should be at least some minor assumptions such that a
 solution for the DGL (1) exists (which are simple to add). More
@@ -62,12 +66,20 @@ important, I would assume that there is a need of Lipschitz like
 assumptions to guarantee the feasibility of the proposed algorithm.
 Maybe I missed this part but at least some discussion about that would
 be of interest to me.
+
+  **no need, because the problem setting is quite similar the PILCO, and PILCO does not make the assumption**
+  
+  
 # Other reviews
 
 - While the given tool is the tractable lifting approach?  Please explain it and add some comments in the revised paper.
+
+   **I have no idea with this**
 
 - In addition, the conclusion should be condensed a little.
 
 - ~~The detail descriptions on the design of self-trigger mechanism are missing.~~
 
 - Generally, the research background is not sufficiently presented in the introduction section (only two paragraphs), which is not friendly to readers.
+
+   
