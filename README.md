@@ -14,6 +14,7 @@ of "standard" event-/self-triggered control techniques, it is unclear
 why exactly those works are presented. After the short mentioning of
 deep reinforcement learning based approaches, it should be stated which
 advantages a model-based approach as presented in this note can offer.
+
  **I have no idea with this**
 - ~~When discussing [15], it should be made clearer that [15] considers
 periodic control.~~
@@ -33,6 +34,7 @@ Same with :\R^n_x??~~
 - There are some design parameters in the simulation, e.g. \tau min and
 max. It would be nice to see how sensitive the results are with respect
 to these parameters.
+
   **no need I think**
 
 - I miss a clear motivation why the proposed approach is important and
