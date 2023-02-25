@@ -14,11 +14,11 @@ deep reinforcement learning based approaches, it should be stated which
 advantages a model-based approach as presented in this note can offer.
 ~~When discussing [15], it should be made clearer that [15] considers
 periodic control.~~
-- The network setting considered in this note should be made explicit.
+- ~~The network setting considered in this note should be made explicit.
 Where exactly is the network, which information has to be transmitted?
 This might also be helpful to better motivate why we not simply
 accumulate the cost at the sensor and then send the accumulated cost to
-the controller.
+the controller.~~
 - ~~It was not obvious in the beginning (at least for me), that the time
 for state measurements and the application of the control input is the
 same. Maybe it can be added in the second sentence in the intro.~~
