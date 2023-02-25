@@ -86,7 +86,9 @@ be of interest to me.
   
    **no need**
 
-- ~~The detail descriptions on the design of self-trigger mechanism are missing.~~
+- The detail descriptions on the design of self-trigger mechanism are missing.
+
+    **I think the self-triggered machanism is clarified in the Overview of learning-based self-triggered control Section**
 
 - Generally, the research background is not sufficiently presented in the introduction section (only two paragraphs), which is not friendly to readers.
 
