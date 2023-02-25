@@ -14,7 +14,6 @@ of "standard" event-/self-triggered control techniques, it is unclear
 why exactly those works are presented. After the short mentioning of
 deep reinforcement learning based approaches, it should be stated which
 advantages a model-based approach as presented in this note can offer.
-
  **I have no idea with this**
 - ~~When discussing [15], it should be made clearer that [15] considers
 periodic control.~~
