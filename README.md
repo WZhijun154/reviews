@@ -78,9 +78,13 @@ be of interest to me.
    **I have no idea with this**
 
 - In addition, the conclusion should be condensed a little.
+  
+   **no need**
 
 - ~~The detail descriptions on the design of self-trigger mechanism are missing.~~
 
 - Generally, the research background is not sufficiently presented in the introduction section (only two paragraphs), which is not friendly to readers.
+
+   **I think the self-triggered machanism is clarified in the Overview of learning-based self-triggered control Section**
 
    
