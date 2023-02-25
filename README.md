@@ -31,6 +31,7 @@ Same with :\R^n_x??~~
 - ~~Footnote 1 is unnecessary.~~
 - ~~II B: Then, given D_j, an arbitrary state ... Very long sentence~~
 - III G could be written in Theorem-proof form to increase the clarity
+- 
   **no need I think**
   
 - There are some design parameters in the simulation, e.g. \tau min and
